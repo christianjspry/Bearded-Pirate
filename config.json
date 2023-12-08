@@ -1,0 +1,13 @@
+{
+    "KEYBOARD_DELAY":           0.155,
+    "MOUSE_MOVE_TIMEOUT":       0.25,
+    "MOUSE_MOVE_ADDED_DELAY":   0.75,
+
+    "FILENAMES":        [ "CFR-1" ],
+    "BOOK_NAMES":       [ "Federal Regulations", "21 Part 11 CFR" ],
+    "NUMBER_OF_PAGES":  [ 1, 1 ],
+    "NUMBER_OF_BOOKS":  2,
+
+    "BASE_FILEPATH":            "C:\\Users\\Chris\\Bearded-Pirate\\Screenshots\\",
+    "SNIPPING_TOOL_FILEPATH":   "C:\\Windows\\System32\\SnippingTool.exe"
+}
