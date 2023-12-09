@@ -1,0 +1,14 @@
+{
+    "KEYBOARD_DELAY":           0.75,
+    "MOUSE_MOVE_TIMEOUT":       0.25,
+    "OPEN_SNIPPING_TOOL_DELAY": 0.66,
+
+    "NUMBER_OF_BOOKS":      0,
+    "BOOK_NAMES":           [ ],
+    "FILENAMES":            [ ],
+    "NUMBER_OF_PAGES":      [ ],
+    "STARTING_PAGE_NUMS":   [ ],
+
+    "BASE_FILEPATH":            "C:\\Users\\",
+    "SNIPPING_TOOL_FILEPATH":   "C:\\Windows\\System32\\SnippingTool.exe"
+}
