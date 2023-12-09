@@ -1,0 +1,71 @@
+INFO - 2023-12-09 15:27:07,190 | Program Start
+INFO - 2023-12-09 15:27:10,136 | X/Y offset from the top left corner: (-1440, -646)
+INFO - 2023-12-09 15:27:10,137 | Filepath for book 1 of 3: C:\Users\Chris\Documents\Dev\py\21 CFR Part 11
+INFO - 2023-12-09 15:27:10,137 | Filepath for book 2 of 3: C:\Users\Chris\Documents\Dev\py\FR-1989
+INFO - 2023-12-09 15:27:10,137 | Filepath for book 3 of 3: C:\Users\Chris\Documents\Dev\py\Summer Lifestyle Blog
+INFO - 2023-12-09 15:27:15,014 | Screen capture region coordinates: (924,85) - (1860,1298)
+INFO - 2023-12-09 15:27:15,015 | Screen capture region size of 936x1213
+INFO - 2023-12-09 15:27:20,091 | Next Page Button coordiantes: (2541,1224)
+INFO - 2023-12-09 15:27:26,723 | Open book sequence 2 has 742 inputs over 2.000162363052368s
+INFO - 2023-12-09 15:27:29,780 | Open book sequence 3 has 588 inputs over 1.8570919036865234s
+WARNING - 2023-12-09 15:27:34,088 | Overwriting an existing file of Page 1.png.
+INFO - 2023-12-09 15:27:37,292 | Book 21 CFR Part 11: page 1 of 6 saved in 3.867565393447876 secs
+INFO - 2023-12-09 15:27:40,329 | Book 21 CFR Part 11: page 2 of 6 saved in 3.0372354984283447 secs
+WARNING - 2023-12-09 15:27:40,993 | Overwriting an existing file of Page 3.png.
+INFO - 2023-12-09 15:27:44,111 | Book 21 CFR Part 11: page 3 of 6 saved in 3.782144069671631 secs
+INFO - 2023-12-09 15:27:47,141 | Book 21 CFR Part 11: page 4 of 6 saved in 3.029876232147217 secs
+INFO - 2023-12-09 15:27:50,172 | Book 21 CFR Part 11: page 5 of 6 saved in 3.0304150581359863 secs
+INFO - 2023-12-09 15:27:53,202 | Book 21 CFR Part 11: page 6 of 6 saved in 3.0308187007904053 secs
+INFO - 2023-12-09 15:27:55,795 | Capture for 21 CFR Part 11 completed.
+INFO - 2023-12-09 15:27:59,110 | Book FR-1989: page 200 of 229 saved in 3.3150148391723633 secs
+INFO - 2023-12-09 15:28:02,433 | Book FR-1989: page 201 of 229 saved in 3.3200719356536865 secs
+WARNING - 2023-12-09 15:28:03,095 | Overwriting an existing file of FR-1989-P202.png.
+INFO - 2023-12-09 15:28:06,505 | Book FR-1989: page 202 of 229 saved in 4.0726282596588135 secs
+WARNING - 2023-12-09 15:28:07,168 | Overwriting an existing file of FR-1989-P203.png.
+INFO - 2023-12-09 15:28:10,584 | Book FR-1989: page 203 of 229 saved in 4.078786134719849 secs
+WARNING - 2023-12-09 15:28:11,247 | Overwriting an existing file of FR-1989-P204.png.
+INFO - 2023-12-09 15:28:14,650 | Book FR-1989: page 204 of 229 saved in 4.0659499168396 secs
+INFO - 2023-12-09 15:28:17,971 | Book FR-1989: page 205 of 229 saved in 3.3212172985076904 secs
+WARNING - 2023-12-09 15:28:18,634 | Overwriting an existing file of FR-1989-P206.png.
+INFO - 2023-12-09 15:28:22,032 | Book FR-1989: page 206 of 229 saved in 4.060817241668701 secs
+WARNING - 2023-12-09 15:28:22,695 | Overwriting an existing file of FR-1989-P207.png.
+INFO - 2023-12-09 15:28:26,111 | Book FR-1989: page 207 of 229 saved in 4.078849792480469 secs
+INFO - 2023-12-09 15:28:29,426 | Book FR-1989: page 208 of 229 saved in 3.3148274421691895 secs
+WARNING - 2023-12-09 15:28:30,089 | Overwriting an existing file of FR-1989-P209.png.
+INFO - 2023-12-09 15:28:33,492 | Book FR-1989: page 209 of 229 saved in 4.066805601119995 secs
+INFO - 2023-12-09 15:28:36,807 | Book FR-1989: page 210 of 229 saved in 3.3147952556610107 secs
+INFO - 2023-12-09 15:28:40,129 | Book FR-1989: page 211 of 229 saved in 3.320871353149414 secs
+WARNING - 2023-12-09 15:28:40,792 | Overwriting an existing file of FR-1989-P212.png.
+INFO - 2023-12-09 15:28:44,195 | Book FR-1989: page 212 of 229 saved in 4.066215991973877 secs
+WARNING - 2023-12-09 15:28:44,858 | Overwriting an existing file of FR-1989-P213.png.
+INFO - 2023-12-09 15:28:48,269 | Book FR-1989: page 213 of 229 saved in 4.0734031200408936 secs
+WARNING - 2023-12-09 15:28:48,931 | Overwriting an existing file of FR-1989-P214.png.
+INFO - 2023-12-09 15:28:52,329 | Book FR-1989: page 214 of 229 saved in 4.0605034828186035 secs
+INFO - 2023-12-09 15:28:55,645 | Book FR-1989: page 215 of 229 saved in 3.3153281211853027 secs
+INFO - 2023-12-09 15:28:58,959 | Book FR-1989: page 216 of 229 saved in 3.314854860305786 secs
+INFO - 2023-12-09 15:29:02,268 | Book FR-1989: page 217 of 229 saved in 3.3088064193725586 secs
+INFO - 2023-12-09 15:29:05,578 | Book FR-1989: page 218 of 229 saved in 3.309431314468384 secs
+INFO - 2023-12-09 15:29:08,887 | Book FR-1989: page 219 of 229 saved in 3.3088459968566895 secs
+INFO - 2023-12-09 15:29:12,202 | Book FR-1989: page 220 of 229 saved in 3.31404972076416 secs
+INFO - 2023-12-09 15:29:15,517 | Book FR-1989: page 221 of 229 saved in 3.315443754196167 secs
+INFO - 2023-12-09 15:29:18,832 | Book FR-1989: page 222 of 229 saved in 3.3146238327026367 secs
+INFO - 2023-12-09 15:29:22,147 | Book FR-1989: page 223 of 229 saved in 3.3151984214782715 secs
+INFO - 2023-12-09 15:29:25,463 | Book FR-1989: page 224 of 229 saved in 3.3157026767730713 secs
+INFO - 2023-12-09 15:29:28,766 | Book FR-1989: page 225 of 229 saved in 3.30332088470459 secs
+INFO - 2023-12-09 15:29:32,080 | Book FR-1989: page 226 of 229 saved in 3.3140690326690674 secs
+INFO - 2023-12-09 15:29:35,395 | Book FR-1989: page 227 of 229 saved in 3.3143177032470703 secs
+INFO - 2023-12-09 15:29:38,711 | Book FR-1989: page 228 of 229 saved in 3.3153350353240967 secs
+INFO - 2023-12-09 15:29:42,020 | Book FR-1989: page 229 of 229 saved in 3.3090322017669678 secs
+INFO - 2023-12-09 15:29:44,401 | Capture for FR-1989 completed.
+WARNING - 2023-12-09 15:29:45,064 | Overwriting an existing file of Blog_Image_1.png.
+INFO - 2023-12-09 15:29:48,335 | Book Summer Lifestyle Blog: page 1 of 10 saved in 3.933698892593384 secs
+WARNING - 2023-12-09 15:29:48,998 | Overwriting an existing file of Blog_Image_2.png.
+INFO - 2023-12-09 15:29:52,365 | Book Summer Lifestyle Blog: page 2 of 10 saved in 4.0294976234436035 secs
+INFO - 2023-12-09 15:29:55,547 | Book Summer Lifestyle Blog: page 3 of 10 saved in 3.1812193393707275 secs
+INFO - 2023-12-09 15:29:58,869 | Book Summer Lifestyle Blog: page 4 of 10 saved in 3.3208467960357666 secs
+INFO - 2023-12-09 15:30:02,116 | Book Summer Lifestyle Blog: page 5 of 10 saved in 3.2478320598602295 secs
+INFO - 2023-12-09 15:30:05,280 | Book Summer Lifestyle Blog: page 6 of 10 saved in 3.1638283729553223 secs
+INFO - 2023-12-09 15:30:08,426 | Book Summer Lifestyle Blog: page 7 of 10 saved in 3.145085334777832 secs
+INFO - 2023-12-09 15:30:11,523 | Book Summer Lifestyle Blog: page 8 of 10 saved in 3.0966663360595703 secs
+INFO - 2023-12-09 15:30:14,608 | Book Summer Lifestyle Blog: page 9 of 10 saved in 3.085045337677002 secs
+INFO - 2023-12-09 15:30:17,638 | Book Summer Lifestyle Blog: page 10 of 10 saved in 3.0301365852355957 secs
